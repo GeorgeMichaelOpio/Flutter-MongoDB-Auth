@@ -1,0 +1,2 @@
+/home/michael/Desktop/flutter/Flutter-MongoDB-Auth/flutter_auth/android/app/.cxx/Debug/6h553g38/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/michael/Desktop/flutter/Flutter-MongoDB-Auth/flutter_auth/android/app/.cxx/Debug/6h553g38/arm64-v8a/CMakeFiles/edit_cache.dir
